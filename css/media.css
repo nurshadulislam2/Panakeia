@@ -1,0 +1,78 @@
+@media (max-width: 575.98px) {
+  .hero {
+    padding: 200px 0 135px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
+
+  h4 {
+    margin-bottom: 80px;
+  }
+
+  .product h3 {
+    margin-top: 0px;
+  }
+
+  .news,
+  .subscribe,
+  .product,
+  footer {
+    padding: 50px 0;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .hero {
+    padding: 200px 0 135px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
+
+  h4 {
+    margin-bottom: 80px;
+  }
+
+  .product h3 {
+    margin-top: 0px;
+  }
+
+  .news,
+  .subscribe,
+  .product,
+  .link,
+  footer {
+    padding: 50px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .hero {
+    padding: 200px 0 135px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
+
+  h4 {
+    margin-bottom: 80px;
+  }
+
+  .btn2 {
+    padding: 14px 50px;
+  }
+
+  .product h3 {
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+@media (min-width: 1200px) {
+}
